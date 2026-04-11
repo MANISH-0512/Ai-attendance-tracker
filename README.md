@@ -3,6 +3,7 @@
 # Executive Summary :-
 
 1.This project is a smart Attendance Tracker web application developed using the Base44 platform.
+
 2.It allows teachers to mark and upload attendance, which students can view in real-time.
 3.The system uses AI to assist in adding student names and managing class data efficiently.
 4.It also automatically generates a detained list based on attendance criteria.
